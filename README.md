@@ -25,18 +25,22 @@ This is a dashboard web application built with **Next.js**. It allows users to v
 
    ```bash
    git clone https://github.com/yourusername/Dashboard.git
+
+```bash
 cd Dashboard
+```bash
 npm install
+```bash
 npm run dev
 
 ## Contributing 
-- If you'd like to contribute to the project:
+- **If you'd like to contribute to the project:
 
-Fork the repository
-Create your feature branch (git checkout -b feature-branch)
-Commit your changes (git commit -m 'Add feature')
-Push to the branch (git push origin feature-branch)
-Create a pull request
+- **Fork the repository
+- **Create your feature branch (git checkout -b feature-branch)
+- **Commit your changes (git commit -m 'Add feature')
+- **Push to the branch (git push origin feature-branch)
+- **Create a pull request
 
 
 ### Key Features Highlighted:
