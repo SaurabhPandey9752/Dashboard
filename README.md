@@ -25,15 +25,12 @@ This is a dashboard web application built with **Next.js**. It allows users to v
 
    ```bash
    git clone https://github.com/yourusername/Dashboard.git
+   cd dashboard
+   npm install
+   npm run dev
 
-```bash
-cd Dashboard
-```bash
-npm install
-```bash
-npm run dev
 
-## Contributing 
+### Contributing 
 - **If you'd like to contribute to the project:
 
 - **Fork the repository
